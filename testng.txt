@@ -1,0 +1,35 @@
+How to run TestNG tests in parallel?
+How to perform parameterized testing in TestNG?
+How to create data-driven tests in TestNG?
+How to handle dependencies between test methods in TestNG?
+What is the difference between @BeforeMethod and @BeforeTest annotations in TestNG?
+How to disable a test method in TestNG?
+Explain the use of listeners in TestNG.
+How to prioritize test methods execution in TestNG?
+What is the purpose of the @DataProvider annotation in TestNG?
+How can you perform group-wise execution of test methods in TestNG?
+How to handle timeouts in TestNG test methods?
+Explain the concept of soft assertions in TestNG.
+How to use TestNG data providers with external data sources like Excel or CSV files?
+How can you handle test dependencies across classes in TestNG?
+How to pass parameters to a TestNG test method from the testng.xml file?
+Explain the purpose of the @Factory annotation in TestNG.
+How to retry failed tests in TestNG?
+What is the purpose of TestNG listeners? Can you provide examples of different types of TestNG listeners?
+How can you execute TestNG tests programmatically without using the testng.xml file?
+How can you handle test suite configuration or setup in TestNG?
+How can you configure test methods to always run even if they are part of a failed group or dependency chain in TestNG?
+Explain the use of the @DataProvider and @Factory annotations together in TestNG.
+How can you configure TestNG to run tests in a specific order?
+How can you perform cross-browser testing using TestNG?
+How can you integrate TestNG with Maven for test execution?
+How can you configure TestNG to generate HTML test reports?
+How can you skip a test method conditionally in TestNG?
+How can you perform parallel execution of test methods in TestNG?
+How can you configure TestNG to generate reports in different formats?
+How can you configure TestNG to run tests based on regular expression patterns?
+How can you configure TestNG to run tests with a specific invocation count?
+Explain the purpose of the @BeforeSuite and @AfterSuite annotations in TestNG.
+How can you configure TestNG to run tests based on groups and priority together?
+Explain the purpose of the @Parameters annotation's inheritGroups attribute.
+How can you configure TestNG to run tests in a specific order using the preserve-order attribute in the testng.xml file?
